@@ -34,7 +34,7 @@ My goal is to advance in Machine Learning and AI and integrate data-driven solut
 ## 🌱 Currently Learning
 
 - Artificial Intelligence (AI)
-- Advanced Machine Learning Modelling  
+- Machine Learning Modelling  
 - Improving SQL Skills  
 
 
