@@ -1,4 +1,6 @@
-<h1>Hi there, I'm Joshua Johnson 👋</h1>
+[![Joshua Johnson Banner](https://raw.githubusercontent.com/johnsonjoshua16/johnsonjoshua16/main/JJPD2.jpeg)](https://github.com/johnsonjoshua16)
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-johnson-49209537b/">
