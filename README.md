@@ -20,7 +20,7 @@ Hi, I'm Joshua, my work emphasizes efficient solutions while I concurrently hone
 
 With a foundation in python development, I am passionate about exploring backend services and leveraging Machine Learning tools to create impactful solutions that can change the world for the better.
 
-My goal is to advance in Machine Learning and AI and integrate data-driven solutions into practical, reliable products for clients and for those who may need it.
+My goal is to advance in Data Science and AI and integrate data-driven solutions into practical, reliable products for clients and for those who may need it.
 
 ### <a href="https://johnsonjoshua16.netlify.app/">🔮 Check out my portfolio</a>
 
