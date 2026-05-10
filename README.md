@@ -45,7 +45,7 @@ My goal is to advance in Data Science and AI and integrate data-driven solutions
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsonjoshua16&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuajohnsonnn&theme=tokyonight" />
 </p>
 
 
