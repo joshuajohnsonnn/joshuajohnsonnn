@@ -22,7 +22,7 @@ With a foundation in python development, I am passionate about exploring backend
 
 My goal is to advance in Data Science and AI and integrate data-driven solutions into practical, reliable products for clients and for those who may need it.
 
-### <a href="https://johnsonjoshua16.netlify.app/">🔮 Check out my portfolio</a>
+### <a href="https://joshuajohnsonnn.netlify.app/">🔮 Check out my portfolio</a>
 
 
 ## 🛠️ What I'm Currently Working On
