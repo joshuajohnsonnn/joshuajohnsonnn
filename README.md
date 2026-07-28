@@ -8,11 +8,9 @@
   <a href="https://discord.com/users/mr_sleeky">
     <img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="display:block;" />
   </a>
-</p>
 
-<p align="center">
   <a href="mailto:trillions22@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-trillions22%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/E--mail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
