@@ -1,18 +1,20 @@
-[![Joshua Johnson Banner](https://raw.githubusercontent.com/johnsonjoshua16/johnsonjoshua16/main/JJPD2.jpeg)](https://github.com/johnsonjoshua16)
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-johnson-49209537b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" style="display:block;" />
   </a>
 
-  <a href="https://discord.com/users/sleeky229">
+  <a href="https://discord.com/users/mr_sleeky">
     <img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="display:block;" />
   </a>
 </p>
 
-
+<p align="center">
+  <a href="mailto:trillions22@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-trillions22%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## 🚀 About Me
 
@@ -37,17 +39,27 @@ My goal is to advance in Machine Learning and AI and integrate data-driven solut
 
 - Artificial Intelligence (AI)
 - Machine Learning Modelling  
-- Improving SQL Skills  
+- MySQL
 
 
 
-## 📊 GitHub Stats
+## ⚡ Contribution Summary
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuajohnsonnn&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuajohnsonnn&theme=tokyonight)
 
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuajohnsonnn&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuajohnsonnn&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuajohnsonnn&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuajohnsonnn&theme=tokyonight&utcOffset=0" />
+
+</div>
 
 
 
