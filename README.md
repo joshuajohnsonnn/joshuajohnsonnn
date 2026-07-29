@@ -40,24 +40,38 @@ My goal is to advance in Machine Learning and AI and integrate data-driven solut
 - MySQL
 
 
+## 📊 GitHub Stats
 
-## ⚡ Contribution Summary
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-six-seven.vercel.app/api?username=joshuajohnsonnn&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-six-seven.vercel.app/api?username=joshuajohnsonnn&show_icons=true&count_private=true&theme=default"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats-six-seven.vercel.app/api?username=joshuajohnsonnn&show_icons=true&count_private=true&theme=default"
+      alt="Joshua Johnson's GitHub Stats"
+    />
+  </picture>
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuajohnsonnn&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuajohnsonnn&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuajohnsonnn&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuajohnsonnn&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuajohnsonnn&theme=tokyonight&utcOffset=0" />
-
-</div>
-
-
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=joshuajohnsonnn&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=joshuajohnsonnn&layout=compact&langs_count=8&theme=default"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=joshuajohnsonnn&layout=compact&langs_count=8&theme=default"
+      alt="Top Languages"
+    />
+  </picture>
+</p>
