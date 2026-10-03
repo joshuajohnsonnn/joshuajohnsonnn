@@ -27,8 +27,8 @@ My goal is to advance in Machine Learning and AI and integrate data-driven solut
 
 ## 🛠️ What I'm Currently Working On
 
-- Building Python Applications and improving my Python programming skills (PW, CALCAPP)
-- Improving my Backend and ML/DS Skills (Currently with SalesData Project)
+- Building Python Applications and improving my Python programming skills (Mini-Python-Projects, CALCAPP)
+- Improving my Backend and ML/DS Skills (Currently with DataLabs Project)
 - Sharing projects, Learning and progressing (On X/Twitter, LinkedIn)
 
 
