@@ -12,9 +12,6 @@
   <a href="mailto:joshuajohnsonnbusiness@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    <a href="https://joshuajohnsonn.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ## 🚀 About Me
@@ -26,6 +23,11 @@ With a foundation in python development, I am passionate about exploring backend
 My goal is to advance in Machine Learning and AI and integrate data-driven solutions into practical, reliable products.
 
 
+<p align="center">
+  <a href="https://joshuajohnsonn.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ## 🛠️ What I'm Currently Working On
 
