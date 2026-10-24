@@ -2,15 +2,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-johnson-49209537b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" style="display:block;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="https://discord.com/users/mr_sleeky">
-    <img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="display:block;" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
+  &nbsp;
   <a href="mailto:joshuajohnsonnbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+    <a href="https://joshuajohnsonn.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -22,7 +25,6 @@ With a foundation in python development, I am passionate about exploring backend
 
 My goal is to advance in Machine Learning and AI and integrate data-driven solutions into practical, reliable products.
 
-### <a href="https://joshuajohnsonn.netlify.app/">🔮 Check out my portfolio</a>
 
 
 ## 🛠️ What I'm Currently Working On
